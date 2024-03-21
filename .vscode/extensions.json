@@ -12,6 +12,13 @@
     "dbaeumer.vscode-eslint",
     "vscjava.vscode-gradle",
     "adashen.vscode-tomcat",
-    "shengchen.vscode-checkstyle"
+    "shengchen.vscode-checkstyle",
+    "nodesource.vscode-for-node-js-development-pack",
+    "fwcd.kotlin",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "cweijan.vscode-database-client2",
+    "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare"
   ]
 }
