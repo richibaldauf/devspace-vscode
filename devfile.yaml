@@ -19,7 +19,7 @@ components:
           targetPort: 8080
         - exposure: public
           name: ng-greeting
-          protocol: http
+          protocol: https
           targetPort: 4200
       volumeMounts:
         - name: m2
