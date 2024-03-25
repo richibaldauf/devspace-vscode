@@ -19,6 +19,7 @@
     "ms-python.debugpy",
     "cweijan.vscode-database-client2",
     "eamodio.gitlens",
-    "ms-vsliveshare.vsliveshare"
+    "ms-vsliveshare.vsliveshare",
+    "redhat.vscode-community-server-connector"
   ]
 }
