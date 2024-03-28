@@ -5,21 +5,26 @@
     "redhat.java",
     "vscjava.vscode-java-debug",
     "vscjava.vscode-java-test",
+    "vscjava.vscode-gradle",
     "redhat.vscode-microprofile",
     "redhat.vscode-quarkus",
     "redhat.fabric8-analytics",
+    "redhat.vscode-server-connector",
+    "redhat.vscode-openshift-connector",
+    "redhat.vscode-yaml",
+    "redhat.vscode-community-server-connector",
     "angular.ng-template",
     "dbaeumer.vscode-eslint",
-    "vscjava.vscode-gradle",
-    "adashen.vscode-tomcat",
-    "shengchen.vscode-checkstyle",
-    "nodesource.vscode-for-node-js-development-pack",
+    "rvest.vs-code-prettier-eslint",check
+    "SonarSource.sonarlint-vscode",
+    "vscode.typescript",
     "fwcd.kotlin",
     "ms-python.python",
     "ms-python.debugpy",
+    "vscode.ruby",
+    "GitLab.gitlab-workflow",
     "cweijan.vscode-database-client2",
     "eamodio.gitlens",
-    "ms-vsliveshare.vsliveshare",
-    "redhat.vscode-community-server-connector"
+    "genuitecllc.codetogether"    
   ]
 }
